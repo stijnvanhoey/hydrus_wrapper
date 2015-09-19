@@ -17,12 +17,6 @@ TODO:
         -OK define parameter-adjustment step
         -OK sensitivity calculation function in for loop (all pars and all outputs)
         -OK plots in time (4 output plots, all pars in one plot)
-    Globale sensitivity:
-        - Sample MonteCarlo
-        - decide the output variable
-        - run model
-        - visual sensitivity with scatter plots
-        - calculate SRC's
 '''
 
 import os
