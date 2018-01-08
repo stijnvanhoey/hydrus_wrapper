@@ -8,7 +8,7 @@ Author: Van Hoey Stijn
 
 #------------------------------------------------------------------------------
 #Import necessary modules and packages-----------------------------------------
-from Meisam_definitions_file import *
+from definitions import *
 import os
 import datetime
 import numpy as np
